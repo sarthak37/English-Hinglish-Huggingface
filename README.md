@@ -13,7 +13,7 @@ OUTPUT-SCREENSHOTS:
 
 3)Loading the Model and Tokenizer: The code then loads the T5 model and its corresponding tokenizer1.
 
-4)Loading the Dataset: The code loads a custom dataset from Hugging Face’s datasets library1.
+4)Loading the Dataset: The code loads a custom dataset which I uploaded on  Hugging Face.
 
 5)Preparing the Training Data: The code prepares the training data by tokenizing the input and target sentences1.
 
