@@ -7,7 +7,7 @@ OUTPUT-SCREENSHOTS:
 
 
 
-1)This code is training a T5 model to perform English to Hinglish translation and then fined tune on custom dataset. Here’s a step-by-step explanation of what the code is doing:
+1)This code is training a T5 model to perform English to Hinglish translation and then fine tune on custom dataset. Here’s a step-by-step explanation of what the code is doing:
 
 2)Importing Necessary Libraries: The code starts by importing the necessary libraries from the transformers package1.
 
