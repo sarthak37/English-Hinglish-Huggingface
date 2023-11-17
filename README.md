@@ -3,7 +3,14 @@
 
 OUTPUT-SCREENSHOTS:
 
-![image](https://github.com/sarthak37/ml/assets/52873771/ac416014-2786-4797-893c-24e13593c35a)
+![image](https://github.com/sarthak37/English-Hinglish-Huggingface/assets/52873771/3a443892-6869-4908-a9b7-1401f3f15e5b)
+
+
+![image](https://github.com/sarthak37/English-Hinglish-Huggingface/assets/52873771/55387605-d809-4b51-910b-e51a897db318)
+
+
+![image](https://github.com/sarthak37/English-Hinglish-Huggingface/assets/52873771/a2982059-7dae-45ad-bd52-9ace24f7e44d)
+
 
 
 
